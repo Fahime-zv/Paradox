@@ -1,0 +1,3 @@
+rootProject.name = "ParadoxCat"
+include ':app'
+include ':app:customeButtonLib'

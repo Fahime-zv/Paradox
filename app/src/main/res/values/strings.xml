@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ParadoxCat</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="invalid_full_name">FullName is empty</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >3 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_failed">"Register failed"</string>
+    <string name="full_name">Full name</string>
+    <!-- Strings related to logout -->
+
+    <string name="logout">Logout</string>
+    <string name="session_expired">Session expired!!!!</string>
+
+
+    <string name="test1_message">"For this state you should set :\n app:subTitleText="TextSubtitle"
+        app:titleText="TestTitle"</string>
+    <string name="test2_message">"For this state you should set :\n app:subTitleText="TextSubtitle"</string>
+</resources>
